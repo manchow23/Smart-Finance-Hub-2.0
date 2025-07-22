@@ -68,3 +68,11 @@ Quick overview of:
    ```bash
    git clone https://github.com/yourusername/smart-finance-hub.git
    cd smart-finance-hub
+
+2. **Installment Requirements:**
+    ```bash
+    pip install -r requirements.txt
+
+3. **Run the Streamlit app:**
+    ```bash
+    streamlit run app.py
