@@ -79,8 +79,12 @@ Quick overview of:
 
 ## 🗺️ Roadmap (Coming Soon)
 📅 Calendar heatmap for return volatility
+
 🤖 ML-based trend prediction inside Streamlit
+
 📰 News/Twitter-based sentiment integration
+
 📲 Mobile-friendly responsive design
+
 ☁️ Deploy to Streamlit Cloud / HuggingFace Spaces
 
