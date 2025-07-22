@@ -66,8 +66,8 @@ Quick overview of:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/yourusername/smart-finance-hub.git
-   cd smart-finance-hub
+   git clone https://github.com/manchow23/Smart-Finance-Hub-2.0
+   cd Smart-Finance-Hub-2.0
 
 2. **Installment Requirements:**
     ```bash
@@ -75,4 +75,4 @@ Quick overview of:
 
 3. **Run the Streamlit app:**
     ```bash
-    streamlit run app.py
+    streamlit run app2_0.py
