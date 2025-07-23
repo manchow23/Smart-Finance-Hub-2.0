@@ -75,18 +75,24 @@ Scikit-learn – Machine Learning (Linear Regression)
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Setup Instructions
 Clone the repo and run:
 
-bash
-Copy
-Edit
-git clone https://github.com/manchow23/Smart-Finance-Hub-2.0
-cd smart-finance-hub
-pip install -r requirements.txt
-streamlit run app2_0.py
+1. **Clone the repo:**
+   ```bash
+   git clone https://github.com/manchow23/Smart-Finance-Hub-2.0
+   cd Smart-Finance-Hub-2.0
+
+2. **Installment Requirements:**
+    ```bash
+    pip install -r requirements.txt
+
+3. **Run the Streamlit app:**
+    ```bash
+    streamlit run app2_0.py
 
 ---
+
 
 ## 📈 What You’ll Learn
 - How to use real-time stock market data from APIs
