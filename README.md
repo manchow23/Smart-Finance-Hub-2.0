@@ -77,18 +77,29 @@ Scikit-learn – Machine Learning (Linear Regression)
 
 ## 📂 Project Structure
 bash
+
 Copy
+
 Edit
+
 Smart-Finance-Hub/
 │
+
 ├── app2_0.py              # Streamlit App
+
 ├── Helper                  
       ├── crash_analysis.py   #Crash detection logic
+
       ├── mutual_fund.py      #Fund planner logic
+
       ├── optimizer.py        #Portfolio logic
+
       ├── quant_stats.py      #Quantitative methods
+
 ├── requirements.txt       # Dependencies
+
 ├── data/                  # (Optional) Static CSV Inputs
+
 └── README.md              # Documentation
 
 ---
