@@ -18,8 +18,8 @@ Originally started as a basic stock analysis tool, it evolved into a feature-ric
 
 ---
 
- ## ✨ Features
-### 1. Market Crash Analyzer ###
+ ## 🧩 Features
+### 1. 📉 Market Crash Analyzer ###
 Detects daily market crashes beyond a threshold (e.g., -5%).
 
 Highlights major events like the 2008 & 2020 crashes.
@@ -29,7 +29,7 @@ Plots daily returns and crash points using intuitive charts.
 <img width="1918" height="821" alt="image" src="https://github.com/user-attachments/assets/4281d3fc-42c9-437d-aa7e-74db08ce6cee" />
 
 
-### 2. Mutual Fund Planner ###
+### 2. 🪙 Mutual Fund Planner ###
 Calculate SIP (Systematic Investment Plan) growth.
 
 Input: monthly investment, duration, expected annual return.
@@ -39,7 +39,7 @@ Displays future wealth projection with charts & key metrics.
 <img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/118a013a-0687-44fc-9888-3f8be5817948" />
 
 
-### 3. Portfolio Optimization ###
+### 3. 📈 Portfolio Optimization ###
 Build your own multi-stock portfolio.
 
 Simulates thousands of portfolios to find max Sharpe Ratio (best return vs risk).
@@ -49,7 +49,7 @@ Outputs optimal allocation + risk-return visualization.
 <img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/16520d2b-722c-4413-a76e-5d222327d5f6" />
 
 
-### 4. Quantitative Finance Analytics ###
+### 4. 📊 Quantitative Finance Analytics ###
 View daily return distributions.
 
 Measure rolling volatility (30-day) to gauge risk.
@@ -58,9 +58,16 @@ Predict price trends using Linear Regression & visualize them.
 
 <img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/bb1f5f9a-438f-4d82-80e2-86858e4e09e0" />
 
+
+### 5. 🔍 Daily Returns Summary (New!)
+Quick overview of:
+- Recent daily returns (tabular view)
+- Average return per stock/ticker
+- Helps identify best/worst performers
+
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 Python – Core Programming
 
 Streamlit – Interactive Dashboard
