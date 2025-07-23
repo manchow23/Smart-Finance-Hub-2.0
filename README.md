@@ -1,4 +1,4 @@
-# Smart Finance Hub 2.0 
+# 📊 Smart Finance Hub 2.0 
 
 Welcome to **Smart Finance Hub 2.0** — an all-in-one, interactive finance dashboard that helps you **analyze**, **predict**, and **plan** your investments, all in a slick Streamlit app.
 
@@ -59,7 +59,7 @@ Predict price trends using Linear Regression & visualize them.
 <img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/bb1f5f9a-438f-4d82-80e2-86858e4e09e0" />
 
 
-### 5. 🔍 Daily Returns Summary (New!)
+### 5. 🔍 Daily Returns Summary
 Quick overview of:
 - Recent daily returns (tabular view)
 - Average return per stock/ticker
