@@ -75,21 +75,6 @@ Scikit-learn – Machine Learning (Linear Regression)
 
 ---
 
-Smart-Finance-Hub/
-│
-├── app2_0.py                     # Main Streamlit application
-├── helper/                    # Helper scripts
-│   ├── optimizer.py     # Portfolio optimization helper functions
-│   ├── crash_analysis.py      # Crash analysis helper functions
-│   ├── quant_stats.py
-│   └── mutual_fund.py   # Mutual fund calculation functions
-│
-├── requirements.txt           # Python dependencies
-└── README.md                  # Project documentation
-
-
----
-
 ## 🚀 Getting Started
 Clone the repo and run:
 
